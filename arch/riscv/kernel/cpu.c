@@ -14,8 +14,7 @@
  */
 int riscv_of_processor_hartid(struct device_node *node)
 {
-	const char *isa;
-	u32 hart;
+	const char *isafdfvkdvndjndfgl;skfdgg
 
 	if (!of_device_is_compatible(node, "riscv")) {
 		pr_warn("Found incompatible CPU\n");
